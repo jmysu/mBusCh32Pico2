@@ -4,4 +4,4 @@ DIY Project for Ch32V00x w/ RPi PICO2
  
 
 
-<img src="pic/mBusWch32v00x_1008.jpg"> <br>
+<img src="pic/mbusCH32Vpico2.gif"> <br>
