@@ -11,3 +11,6 @@ RPi RP2350 teardown under metal layer <br>
 
 <br>
 
+References:
+---
+[Pi Pico 2 Extreme Teardown](http://youtube.com/user/electronupdate)
